@@ -5,20 +5,25 @@
 
 [![Status](https://img.shields.io/badge/Status-Estável-22c55e?style=for-the-badge)](https://github.com/JEMAM/finetune-studio-releases/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20(x64)-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JEMAM/finetune-studio-releases/releases/latest)
-[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%26%20Intel-black?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/JEMAM/finetune-studio-releases/releases/latest)
-[![Privacidade](https://img.shields.io/badge/Privacidade-100%25%20Offline%20Local-8b5cf6?style=for-the-badge)](#privacidade-e-segurança)
+[![macOS](https://img.shields.io/badge/macOS-Em%20Breve-yellow?style=for-the-badge&logo=apple&logoColor=white)](#-disponibilidade-macos)
+[![Privacidade](https://img.shields.io/badge/Privacidade-100%25%20Offline%20Local-8b5cf6?style=for-the-badge)](#-privacidade-e-segurança)
 
 ---
 
 ### 📥 Download dos Instaladores Oficiais
 
-| Plataforma | Pacote | Link Direto | Versão |
+| Plataforma | Pacote | Link de Download | Status |
 | :--- | :--- | :---: | :---: |
-| **Windows (x64)** | Instalador Executável (`.exe`) | [**⬇️ Baixar Instalador Windows**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_x64-setup.exe) | `v1.0.0` |
-| **Windows (Empresarial)** | Pacote MSI (`.msi`) | [Ver em Releases](https://github.com/JEMAM/finetune-studio-releases/releases) | `v1.0.0` |
-| **macOS (Apple Silicon & Intel)** | Imagem de Disco (`.dmg`) | [Ver em Releases](https://github.com/JEMAM/finetune-studio-releases/releases) | `v1.0.0` |
+| **Windows (x64)** | Instalador Executável (`.exe`) | [**⬇️ Baixar Instalador Windows (.exe)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_x64-setup.exe) | ✅ Disponível (`v1.0.0`) |
+| **Windows Corporativo** | Pacote MSI (`.msi`) | [**⬇️ Baixar Pacote MSI (.msi)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_x64_en-US.msi) | ✅ Disponível (`v1.0.0`) |
+| **macOS (Apple Silicon & Intel)** | Imagem de Disco (`.dmg`) | *[Disponível em breve](#-disponibilidade-macos)* | 🟡 Em Homologação |
 
 </div>
+
+---
+
+### 🍏 Disponibilidade macOS
+A versão para **macOS (Apple Silicon M1/M2/M3/M4 e Intel)** com aceleração gráfica Metal/MPS já possui compatibilidade completa implementada no código-fonte e o pacote instalador **`.dmg`** está em fase final de compilação automatizada via CI/CD. Assim que finalizado, o link direto de download será liberado nesta página.
 
 ---
 
