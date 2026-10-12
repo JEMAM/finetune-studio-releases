@@ -5,25 +5,20 @@
 
 [![Status](https://img.shields.io/badge/Status-Estável-22c55e?style=for-the-badge)](https://github.com/JEMAM/finetune-studio-releases/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20(x64)-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JEMAM/finetune-studio-releases/releases/latest)
-[![macOS](https://img.shields.io/badge/macOS-Em%20Breve-yellow?style=for-the-badge&logo=apple&logoColor=white)](#-disponibilidade-macos)
+[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20(M1--M4)-black?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/JEMAM/finetune-studio-releases/releases/latest)
 [![Privacidade](https://img.shields.io/badge/Privacidade-100%25%20Offline%20Local-8b5cf6?style=for-the-badge)](#-privacidade-e-segurança)
 
 ---
 
 ### 📥 Download dos Instaladores Oficiais
 
-| Plataforma | Pacote | Link de Download | Status |
+| Plataforma | Pacote | Link Direto de Download | Status |
 | :--- | :--- | :---: | :---: |
-| **Windows (x64)** | Instalador Executável (`.exe`) | [**⬇️ Baixar Instalador Windows (.exe)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_x64-setup.exe) | ✅ Disponível (`v1.0.0`) |
+| **Windows (x64)** | Instalador Executável (`.exe`) | [**⬇️ Baixar para Windows (.exe)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_x64-setup.exe) | ✅ Disponível (`v1.0.0`) |
 | **Windows Corporativo** | Pacote MSI (`.msi`) | [**⬇️ Baixar Pacote MSI (.msi)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_x64_en-US.msi) | ✅ Disponível (`v1.0.0`) |
-| **macOS (Apple Silicon & Intel)** | Imagem de Disco (`.dmg`) | *[Disponível em breve](#-disponibilidade-macos)* | 🟡 Em Homologação |
+| **macOS (Apple Silicon)** | Imagem de Disco (`.dmg`) | [**⬇️ Baixar para macOS (.dmg)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_aarch64.dmg) | ✅ Disponível (`v1.0.0`) |
 
 </div>
-
----
-
-### 🍏 Disponibilidade macOS
-A versão para **macOS (Apple Silicon M1/M2/M3/M4 e Intel)** com aceleração gráfica Metal/MPS já possui compatibilidade completa implementada no código-fonte e o pacote instalador **`.dmg`** está em fase final de compilação automatizada via CI/CD. Assim que finalizado, o link direto de download será liberado nesta página.
 
 ---
 
@@ -38,13 +33,18 @@ O **FineTune Studio** é um aplicativo desktop projetado para simplificar todo o
 
 ---
 
-## 🚀 Como Instalar no Windows
+## 🚀 Como Instalar
 
-1. Clique no botão de download acima ou baixe o arquivo **`FineTuneStudio_1.0.0_x64-setup.exe`**.
-2. Dê um duplo clique no arquivo baixado.
-3. Siga o assistente de instalação (Next ➔ Install ➔ Finish).
-4. O aplicativo criará automaticamente um atalho na sua **Área de Trabalho** e no **Menu Iniciar**.
-5. Abra o **FineTune Studio** e comece a usar!
+### No Windows:
+1. Clique no botão de download acima para baixar o **`FineTuneStudio_1.0.0_x64-setup.exe`**.
+2. Dê um duplo clique no arquivo baixado e siga o assistente de instalação.
+3. O aplicativo criará automaticamente um atalho na sua **Área de Trabalho** e no **Menu Iniciar**.
+
+### No macOS:
+1. Clique no botão de download acima para baixar o **`FineTuneStudio_1.0.0_aarch64.dmg`**.
+2. Dê um duplo clique no arquivo `.dmg` baixado.
+3. Arraste o ícone do **FineTune Studio** para a pasta **Applications** (Aplicativos).
+4. Abra o aplicativo a partir do Launchpad ou pasta de Aplicativos.
 
 > 💡 **Dica**: Certifique-se de ter o [Ollama](https://ollama.com/) instalado no seu computador para usufruir de inferência e chat com modelos locais.
 
@@ -56,13 +56,13 @@ O **FineTune Studio** é um aplicativo desktop projetado para simplificar todo o
 - **Sistema Operacional**: Windows 10 ou Windows 11 (64-bit).
 - **Processador**: Intel Core i5 / AMD Ryzen 5 ou superior.
 - **Memória RAM**: 16 GB recomendado (mínimo 8 GB para modelos leves de 3B).
-- **Placa de Vídeo (Opcional para Treino Rápido)**: GPU NVIDIA com 6 GB+ de VRAM (GTX 1660 / RTX 3060 / 4060 ou superior).
-- **Armazenamento**: 10 GB de espaço livre para modelos e checkpoints.
+- **Placa de Vídeo**: GPU NVIDIA com 6 GB+ de VRAM (GTX 1660 / RTX 3060 / 4060 ou superior).
 
 ### macOS
 - **Sistema Operacional**: macOS 11.0 (Big Sur) ou superior.
-- **Processador**: Apple Silicon (M1, M2, M3, M4) ou Intel x86_64.
+- **Processador**: Apple Silicon (chips M1, M2, M3, M4).
 - **Memória RAM**: 16 GB de memória unificada recomendada.
+- **Aceleração**: Aceleração gráfica nativa via **Apple Metal (MPS)**.
 
 ---
 
