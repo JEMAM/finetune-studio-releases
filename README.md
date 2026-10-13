@@ -14,7 +14,7 @@
 
 | Plataforma | Pacote | Link Direto de Download | Status |
 | :--- | :--- | :---: | :---: |
-| **Windows (x64)** | Instalador Executável (`.exe`) | [**⬇️ Baixar para Windows (.exe)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_x64-setup.exe) | ✅ Disponível (`v1.0.0`) |
+| **Windows (x64)** | Instalador Executável (`.exe`) | [**⬇️ Baixar para Windows (.exe)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.1_x64-setup.exe) | ✅ Disponível (`v1.0.0`) |
 | **Windows Corporativo** | Pacote MSI (`.msi`) | [**⬇️ Baixar Pacote MSI (.msi)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_x64_en-US.msi) | ✅ Disponível (`v1.0.0`) |
 | **macOS (Apple Silicon)** | Imagem de Disco (`.dmg`) | [**⬇️ Baixar para macOS (.dmg)**](https://github.com/JEMAM/finetune-studio-releases/releases/latest/download/FineTuneStudio_1.0.0_aarch64.dmg) | ✅ Disponível (`v1.0.0`) |
 
@@ -36,7 +36,7 @@ O **FineTune Studio** é um aplicativo desktop projetado para simplificar todo o
 ## 🚀 Como Instalar
 
 ### No Windows:
-1. Clique no botão de download acima para baixar o **`FineTuneStudio_1.0.0_x64-setup.exe`**.
+1. Clique no botão de download acima para baixar o **`FineTuneStudio_1.0.1_x64-setup.exe`**.
 2. Dê um duplo clique no arquivo baixado e siga o assistente de instalação.
 3. O aplicativo criará automaticamente um atalho na sua **Área de Trabalho** e no **Menu Iniciar**.
 
