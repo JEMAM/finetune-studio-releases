@@ -1,0 +1,12 @@
+{
+  "licenses": {
+    "FT-CLIENT-D926-5730-16D8": {
+      "email": "teste.advocacia@empresa.com",
+      "nome": "Advocacia Silva & Associados",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-11-12"
+    }
+  },
+  "updatedAt": "2026-10-13T17:54:17.862Z"
+}
