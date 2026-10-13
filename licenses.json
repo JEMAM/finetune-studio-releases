@@ -13,7 +13,14 @@
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
       "valido_ate": "2026-12-12"
+    },
+    "FT-CLIENT-2B96-09F6-7837": {
+      "email": "edumoraes1972@gmail.com",
+      "nome": "AI engenering",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-11-12"
     }
   },
-  "updatedAt": "2026-10-13T18:35:34.372Z"
+  "updatedAt": "2026-10-13T18:47:20.690Z"
 }
