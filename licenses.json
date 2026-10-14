@@ -32,14 +32,6 @@
       "status": "ativo",
       "valido_ate": "2026-10-21"
     },
-    "FT-CLIENT-B9A5-E41C-8D0F": {
-      "email": "ze@gmail.com",
-      "nome": "ze",
-      "cnpj": "00.000.000/0000-04",
-      "plano": "Teste Gratuito PJ (7 Dias)",
-      "status": "ativo",
-      "valido_ate": "2026-10-21"
-    },
     "FT-CLIENT-206B-69A6-4043": {
       "email": "almir@gmail.com",
       "nome": "almir",
@@ -47,7 +39,15 @@
       "plano": "Teste Gratuito PJ (7 Dias)",
       "status": "ativo",
       "valido_ate": "2026-10-21"
+    },
+    "FT-CLIENT-B9A5-E41C-8D0F": {
+      "email": "ze@gmail.com",
+      "nome": "ze",
+      "cnpj": "00.000.000/0000-04",
+      "plano": "Teste Gratuito PJ (7 Dias)",
+      "status": "ativo",
+      "valido_ate": "2026-10-21"
     }
   },
-  "updatedAt": "2026-10-14T14:05:10.846Z"
+  "updatedAt": "2026-10-14T14:05:13.275Z"
 }
