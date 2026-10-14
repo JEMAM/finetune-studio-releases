@@ -31,15 +31,7 @@
       "plano": "Teste Gratuito PJ (7 Dias)",
       "status": "ativo",
       "valido_ate": "2026-10-21"
-    },
-    "FT-CLIENT-DFDD-EFA1-4A03": {
-      "email": "andre@empresa.com",
-      "nome": "André",
-      "cnpj": "",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2026-10-21"
     }
   },
-  "updatedAt": "2026-10-14T14:21:20.528Z"
+  "updatedAt": "2026-10-14T14:21:32.544Z"
 }
