@@ -1,26 +1,13 @@
 {
   "licenses": {
-    "FT-CLIENT-D926-5730-16D8": {
-      "email": "teste.advocacia@empresa.com",
-      "nome": "Advocacia Silva & Associados",
+    "FT-CLIENT-02AE-5815-90A2": {
+      "email": "contato@empresateste.com.br",
+      "nome": "Empresa Teste PJ",
+      "cnpj": "12.345.678/0001-95",
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
-      "valido_ate": "2026-12-12"
-    },
-    "FT-CLIENT-A71B-CA58-2310": {
-      "email": "ti@santacruz.med.br",
-      "nome": "Hospital Santa Cruz",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2026-12-12"
-    },
-    "FT-CLIENT-2B96-09F6-7837": {
-      "email": "edumoraes1972@gmail.com",
-      "nome": "AI engenering",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2026-11-12"
+      "valido_ate": "2026-10-21"
     }
   },
-  "updatedAt": "2026-10-14T10:05:27.497Z"
+  "updatedAt": "2026-10-14T10:39:08.502Z"
 }
