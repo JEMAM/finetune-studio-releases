@@ -15,7 +15,15 @@
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
       "valido_ate": "2026-10-21"
+    },
+    "FT-CLIENT-DFDD-EFA1-4A03": {
+      "email": "andre@empresa.com",
+      "nome": "André",
+      "cnpj": "",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-10-21"
     }
   },
-  "updatedAt": "2026-10-14T13:24:18.972Z"
+  "updatedAt": "2026-10-14T13:25:01.954Z"
 }
