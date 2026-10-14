@@ -1,13 +1,4 @@
 {
-  "licenses": {
-    "FT-CLIENT-02AE-5815-90A2": {
-      "email": "contato@empresateste.com.br",
-      "nome": "Empresa Teste PJ",
-      "cnpj": "12.345.678/0001-95",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2026-10-21"
-    }
-  },
-  "updatedAt": "2026-10-14T10:39:08.502Z"
+  "licenses": {},
+  "updatedAt": "2026-10-14T10:39:10.332Z"
 }
