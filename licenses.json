@@ -16,14 +16,6 @@
       "status": "ativo",
       "valido_ate": "2026-10-21"
     },
-    "FT-CLIENT-206B-69A6-4043": {
-      "email": "almir@gmail.com",
-      "nome": "almir",
-      "cnpj": "00.000.000/0000-05",
-      "plano": "Teste Gratuito PJ (7 Dias)",
-      "status": "ativo",
-      "valido_ate": "2026-10-21"
-    },
     "FT-CLIENT-6F48-E21C-AE01": {
       "email": "andre.novo@empresa.com",
       "nome": "André Teste",
@@ -47,7 +39,15 @@
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
       "valido_ate": "2026-10-21"
+    },
+    "FT-CLIENT-206B-69A6-4043": {
+      "email": "almir@gmail.com",
+      "nome": "almir",
+      "cnpj": "00.000.000/0000-05",
+      "plano": "Teste Gratuito PJ (7 Dias)",
+      "status": "ativo",
+      "valido_ate": "2026-10-21"
     }
   },
-  "updatedAt": "2026-10-14T14:05:56.007Z"
+  "updatedAt": "2026-10-14T14:05:59.013Z"
 }
