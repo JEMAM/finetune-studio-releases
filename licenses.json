@@ -7,7 +7,15 @@
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
       "valido_ate": "2026-10-26"
+    },
+    "FT-CLIENT-BEA7-850B-DE72": {
+      "email": "rodrigo@empresa.com",
+      "nome": "Rodrigo",
+      "cnpj": "",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-10-21"
     }
   },
-  "updatedAt": "2026-10-14T11:23:02.870Z"
+  "updatedAt": "2026-10-14T13:13:16.180Z"
 }
