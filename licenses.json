@@ -15,16 +15,11 @@
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
       "valido_ate": "2026-10-21"
-    },
-    "FT-CLIENT-B9A5-E41C-8D0F": {
-      "email": "ze@gmail.com",
-      "nome": "ze",
-      "cnpj": "00.000.000/0000-10",
-      "plano": "Teste Gratuito PJ (7 Dias)",
-      "status": "ativo",
-      "valido_ate": "2026-10-21"
     }
   },
-  "revoked": [],
-  "updatedAt": "2026-10-14T17:09:33.928Z"
+  "revoked": [
+    "ze@gmail.com",
+    "FT-CLIENT-B9A5-E41C-8D0F"
+  ],
+  "updatedAt": "2026-10-19T12:15:42.307Z"
 }
