@@ -1,17 +1,8 @@
 {
-  "licenses": {
-    "FT-CLIENT-BEA7-850B-DE72": {
-      "email": "rodrigo@empresa.com",
-      "nome": "Rodrigo",
-      "cnpj": "",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2026-10-21"
-    }
-  },
+  "licenses": {},
   "revoked": [
-    "edu@gmail.com",
-    "FT-CLIENT-1801-945C-2A5B"
+    "rodrigo@empresa.com",
+    "FT-CLIENT-BEA7-850B-DE72"
   ],
-  "updatedAt": "2026-10-19T14:00:36.856Z"
+  "updatedAt": "2026-10-19T14:00:43.739Z"
 }
