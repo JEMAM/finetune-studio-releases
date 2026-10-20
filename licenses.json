@@ -1,5 +1,14 @@
 {
-  "licenses": {},
+  "licenses": {
+    "FT-CLIENT-03E3-FBCE-3A29": {
+      "email": "analise@macroeconomia.com.br",
+      "nome": "MacroEconomia Consultoria Financeira Ltda",
+      "cnpj": "45.812.903/0001-67",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-11-19"
+    }
+  },
   "revoked": [],
-  "updatedAt": "2026-10-20T19:57:54.065Z"
+  "updatedAt": "2026-10-20T19:57:56.322Z"
 }
