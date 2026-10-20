@@ -7,8 +7,16 @@
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
       "valido_ate": "2026-11-19"
+    },
+    "FT-CLIENT-9BAF-F83F-126A": {
+      "email": "rodrigo@gmail.com",
+      "nome": "rodrigo",
+      "cnpj": "00.000.000/0000-10",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-10-27"
     }
   },
   "revoked": [],
-  "updatedAt": "2026-10-20T19:57:56.322Z"
+  "updatedAt": "2026-10-20T20:19:44.993Z"
 }
