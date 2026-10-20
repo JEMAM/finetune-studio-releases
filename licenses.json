@@ -1,13 +1,5 @@
 {
   "licenses": {
-    "FT-CLIENT-B9A5-E41C-8D0F": {
-      "email": "ze@gmail.com",
-      "nome": "ze",
-      "cnpj": "00.000.000/0000-23",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2026-10-27"
-    },
     "FT-CLIENT-EEFB-EECF-E0E1": {
       "email": "jose@gmail.com",
       "nome": "jose",
@@ -18,8 +10,8 @@
     }
   },
   "revoked": [
-    "dri@gmail.com",
-    "FT-CLIENT-DB83-977A-887F"
+    "ze@gmail.com",
+    "FT-CLIENT-B9A5-E41C-8D0F"
   ],
-  "updatedAt": "2026-10-20T19:13:30.785Z"
+  "updatedAt": "2026-10-20T19:13:36.130Z"
 }
