@@ -23,8 +23,16 @@
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
       "valido_ate": "2026-10-27"
+    },
+    "FT-CLIENT-EEFB-EECF-E0E1": {
+      "email": "jose@gmail.com",
+      "nome": "jose",
+      "cnpj": "00.000.000/0000-24",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-10-27"
     }
   },
   "revoked": [],
-  "updatedAt": "2026-10-20T14:30:37.552Z"
+  "updatedAt": "2026-10-20T17:01:34.028Z"
 }
