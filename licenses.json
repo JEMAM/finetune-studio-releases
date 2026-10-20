@@ -7,11 +7,16 @@
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
       "valido_ate": "2026-10-27"
+    },
+    "FT-CLIENT-DB83-977A-887F": {
+      "email": "dri@gmail.com",
+      "nome": "dri",
+      "cnpj": "00.000.000/0000-22",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-10-27"
     }
   },
-  "revoked": [
-    "ze@gmail.com",
-    "FT-CLIENT-B9A5-E41C-8D0F"
-  ],
-  "updatedAt": "2026-10-20T13:28:49.954Z"
+  "revoked": [],
+  "updatedAt": "2026-10-20T13:30:16.457Z"
 }
