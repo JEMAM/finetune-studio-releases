@@ -5,7 +5,7 @@
       "nome": "MacroEconomia Consultoria Financeira Ltda",
       "cnpj": "45.812.903/0001-67",
       "plano": "Sovereign Enterprise Local",
-      "status": "bloqueado",
+      "status": "ativo",
       "valido_ate": "2026-11-19"
     },
     "FT-CLIENT-9BAF-F83F-126A": {
@@ -18,10 +18,8 @@
     }
   },
   "revoked": [
-    "analise@macroeconomia.com.br",
-    "FT-CLIENT-03E3-FBCE-3A29",
     "rodrigo@gmail.com",
     "FT-CLIENT-9BAF-F83F-126A"
   ],
-  "updatedAt": "2026-10-20T20:29:32.808Z"
+  "updatedAt": "2026-10-20T20:29:49.794Z"
 }
