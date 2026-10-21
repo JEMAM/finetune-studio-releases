@@ -1,5 +1,13 @@
 {
   "licenses": {
+    "FT-CLIENT-1801-945C-2A5B": {
+      "email": "edu@gmail.com",
+      "nome": "edu",
+      "cnpj": "00.000.000/0000-01",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2027-10-16"
+    },
     "FT-CLIENT-03E3-FBCE-3A29": {
       "email": "analise@macroeconomia.com.br",
       "nome": "MacroEconomia Consultoria Financeira Ltda",
@@ -18,5 +26,5 @@
     }
   },
   "revoked": [],
-  "updatedAt": "2026-10-20T20:29:58.113Z"
+  "updatedAt": "2026-10-21T14:38:37.891Z"
 }
