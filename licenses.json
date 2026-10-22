@@ -1,38 +1,5 @@
 {
-  "licenses": {
-    "FT-CLIENT-1801-945C-2A5B": {
-      "email": "edu@gmail.com",
-      "nome": "edu",
-      "cnpj": "00.000.000/0000-01",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2027-10-16"
-    },
-    "FT-CLIENT-03E3-FBCE-3A29": {
-      "email": "analise@macroeconomia.com.br",
-      "nome": "MacroEconomia Consultoria Financeira Ltda",
-      "cnpj": "45.812.903/0001-67",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2026-11-19"
-    },
-    "FT-CLIENT-9BAF-F83F-126A": {
-      "email": "rodrigo@gmail.com",
-      "nome": "rodrigo",
-      "cnpj": "00.000.000/0000-10",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2026-10-27"
-    },
-    "FT-CLIENT-CF3C-930E-DB9B": {
-      "email": "duda@gmail.com",
-      "nome": "duda",
-      "cnpj": "00.000.000/0000-02",
-      "plano": "Sovereign Enterprise Local",
-      "status": "ativo",
-      "valido_ate": "2026-10-29"
-    }
-  },
+  "licenses": {},
   "revoked": [],
-  "updatedAt": "2026-10-22T12:06:18.747Z"
+  "updatedAt": "2026-10-22T13:01:05.745Z"
 }
