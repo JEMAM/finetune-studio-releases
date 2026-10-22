@@ -1,5 +1,14 @@
 {
-  "licenses": {},
+  "licenses": {
+    "FT-CLIENT-1801-945C-2A5B": {
+      "email": "edu@gmail.com",
+      "nome": "edu",
+      "cnpj": "00.000.000/0000-01",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-10-29"
+    }
+  },
   "revoked": [],
-  "updatedAt": "2026-10-22T13:01:05.745Z"
+  "updatedAt": "2026-10-22T13:13:44.869Z"
 }
