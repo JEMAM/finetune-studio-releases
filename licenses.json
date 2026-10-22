@@ -15,8 +15,16 @@
       "plano": "Sovereign Enterprise Local",
       "status": "ativo",
       "valido_ate": "2026-10-29"
+    },
+    "FT-CLIENT-7A1E-ED2C-46AA": {
+      "email": "ro@gmail.com",
+      "nome": "ro",
+      "cnpj": "00.000.000/0000-03",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-10-29"
     }
   },
   "revoked": [],
-  "updatedAt": "2026-10-22T14:22:22.996Z"
+  "updatedAt": "2026-10-22T14:54:38.516Z"
 }
