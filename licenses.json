@@ -1,8 +1,14 @@
 {
-  "licenses": {},
-  "revoked": [
-    "edu@gmail.com",
-    "FT-CLIENT-1801-945C-2A5B"
-  ],
-  "updatedAt": "2026-10-22T13:58:12.281Z"
+  "licenses": {
+    "FT-CLIENT-DB83-977A-887F": {
+      "email": "dri@gmail.com",
+      "nome": "dri",
+      "cnpj": "00.000.000/0000-02",
+      "plano": "Sovereign Enterprise Local",
+      "status": "ativo",
+      "valido_ate": "2026-10-29"
+    }
+  },
+  "revoked": [],
+  "updatedAt": "2026-10-22T14:05:34.442Z"
 }
