@@ -29,13 +29,10 @@
       "nome": "ja",
       "cnpj": "00.000.000/0000-05",
       "plano": "Sovereign Enterprise Local",
-      "status": "bloqueado",
+      "status": "ativo",
       "valido_ate": "2026-11-05"
     }
   },
-  "revoked": [
-    "ja@gmail.com",
-    "FT-CLIENT-DE6C-2270-8E9A"
-  ],
-  "updatedAt": "2026-11-02T13:51:37.540Z"
+  "revoked": [],
+  "updatedAt": "2026-11-02T13:51:58.247Z"
 }
