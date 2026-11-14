@@ -25,9 +25,6 @@
       "valido_ate": "2026-12-06"
     }
   },
-  "revoked": [
-    "ze@gmail.com",
-    "FT-CLIENT-B9A5-E41C-8D0F"
-  ],
-  "updatedAt": "2026-11-14T11:44:59.180Z"
+  "revoked": [],
+  "updatedAt": "2026-11-14T11:45:05.370Z"
 }
